@@ -1,0 +1,16 @@
+PODS:
+  - NewFrameworkXcframework (1.0.0)
+
+DEPENDENCIES:
+  - NewFrameworkXcframework (from `../NewFrameworkXcframework`)
+
+EXTERNAL SOURCES:
+  NewFrameworkXcframework:
+    :path: "../NewFrameworkXcframework"
+
+SPEC CHECKSUMS:
+  NewFrameworkXcframework: ed271c8bf5e5978fa690585047c42eaba72f3eb3
+
+PODFILE CHECKSUM: c6222ba432af69b63461319540651db47312edbe
+
+COCOAPODS: 1.15.2
