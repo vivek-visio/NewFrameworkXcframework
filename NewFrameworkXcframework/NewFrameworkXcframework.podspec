@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NewFrameworkXcframework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "This is UIScrollView NewFrameworkXcframework."
   spec.description  = "This is some super uiscrollview view code in single line of code"
   spec.homepage     = "https://github.com/vivek-visio/NewFrameworkXcframework"
